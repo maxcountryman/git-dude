@@ -6,7 +6,7 @@
 	<string>com.sickill.git-dude</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>~/.git-dude/git-dude-launcher.sh</string>
+		<string>/Users/$USER/.git-dude/git-dude-launcher.sh</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
